@@ -82,6 +82,3 @@ Troubleshooting (short)
 - Missing images: ensure `images/` contains referenced PNGs.
 - Port 8501 in use: stop the occupying process or run Streamlit with `--server.port 8502`.
 
-If you want this README adjusted further (shorter/longer or to include deploy steps), tell me which sections to keep.
-
-
